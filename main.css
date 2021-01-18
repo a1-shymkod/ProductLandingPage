@@ -1,0 +1,23 @@
+#video{
+	display:block;
+	margin-top:150px;
+	padding:25px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#form{	
+	text-align:center;
+	margin-top:100px;
+}
+h2{
+	font-family	:ford;	
+	color:white;
+	background-color:#3333FF;
+}
+p{
+	font-family:ford;
+	font-size:16rm;
+	color:black;
+	
+}
